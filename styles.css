@@ -1,0 +1,51 @@
+#big_container{
+    height:150px;
+    width: 200px;
+}
+
+div{
+    text-align: center;
+}
+
+.big_boxes{
+    display: inline-block;
+    border: 1px solid black;
+}
+
+#container-left{
+    width: 100px;
+    height: 100px;
+}
+
+.row div{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid black;
+    margin-top: 5px;
+}
+
+#box-A{
+    background: yellow;
+}
+
+#box-B{
+    background: limegreen;
+}
+
+#box-C{
+    background: pink;
+}
+
+#box-D{
+    background: turquoise;
+}
+
+#box-E{
+    background: red;
+    width: 50px;
+    height: 100px;
+    vertical-align: top;
+    line-height: 100px;
+}
